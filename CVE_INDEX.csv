@@ -1,1 +1,3 @@
 CVE ID,Title,Team,Lab,Severity,CVSS Score,Status,Reviewer Notes
+EDU-WEBLAB-2026-T01-001,Reflected Cross-Site Scripting (XSS) in DVWA Profile Page,Team 01,DVWA,Medium,6.1,Pending Review,
+EDU-WEBLAB-2026-T01-002,OS Command Injection in DVWA Ping Functionality,Team 01,DVWA,Critical,9.8,Pending Review,
