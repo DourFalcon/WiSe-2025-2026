@@ -1,4 +1,4 @@
-CVE-ID: EDU-WEBLAB-2026-TEAM2-019
+CVE-ID: EDU-WEBLAB-2026-TEAM2-20
 
 Title: XML External Entity (XXE) Injection in Configuration File Processing Enabling Unauthorized Data Exfiltration
 
