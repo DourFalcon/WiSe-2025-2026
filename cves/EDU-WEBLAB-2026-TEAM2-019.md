@@ -1,4 +1,4 @@
-CVE-ID: EDU-WEBLAB-2026-TEAM2-018
+CVE-ID: EDU-WEBLAB-2026-TEAM2-019
 
 Title: XML External Entity (XXE) Injection via SOAP Request Enabling Unauthorized Local File Disclosure
 
