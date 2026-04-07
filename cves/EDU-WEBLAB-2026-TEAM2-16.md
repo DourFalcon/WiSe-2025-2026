@@ -1,6 +1,6 @@
 # Vulnerability Report
 
- CVE-ID: EDU-WEBLAB-2026-TEAM2-015
+ CVE-ID: EDU-WEBLAB-2026-TEAM2-16
 
 **Title:** XPath Injection via Unsanitized User-Supplied Query Input Enabling Unauthorized Data Extraction and Access Control Bypass
 
